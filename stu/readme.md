@@ -3,6 +3,10 @@
 ## 前端文件
 前端文件放在front文件夹里
 自行导入node_modules
+安装nodejs，vue，@vue/cli
+cmd移动到文件目录
+`vue ui`
+安装依赖:vuex,axios,element-ui,vue-router
 
 ## 后端文件
 后端文件放在back文件夹里
